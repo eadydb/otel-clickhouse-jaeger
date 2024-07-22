@@ -14,5 +14,8 @@ docker compose up -d
 Once the images are built and containers are started you can access:
 
 Grafana: http://localhost:8080/grafana/
+
 Jaeger UI: http://localhost:8080/jaeger/ui/
 
+## jaeger clickhouse 
+https://github.com/jaegertracing/jaeger-clickhouse
